@@ -1,5 +1,4 @@
 # ENVP-JennaMoyers-GEOG478
-Table:- Jenna Moyers
 | :-------------:| :-------------:| :-----:|
 |[week01](homework/week01) |[week01](lab/week01)
 |[week02](homework/week02) |[week02](lab/week02)
